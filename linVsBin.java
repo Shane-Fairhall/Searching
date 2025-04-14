@@ -1,6 +1,6 @@
 
 /**
- * An interactive comparing the search times for linear and binary search
+ * An interactive comparing the search operations for linear and binary search
  * given different list sizes
  *
  * Shane Fairhall
