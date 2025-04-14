@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=linVsBin
+comment1.params=nums\ search
+comment1.target=int\ linSearch(int[],\ int)
+comment1.text=\ Accepts\ an\ array\ of\ integers\ and\ a\ item\ to\ search\ for\r\n\ performs\ a\ linear\ search\ on\ the\ array.\r\n\ Returns\ the\ number\ of\ operation\ needed\ for\ the\ search\r\n
+comment2.params=nums\ search
+comment2.target=int\ binSearch(int[],\ int)
+comment2.text=\ Accepts\ an\ array\ of\ integers\ and\ a\ item\ to\ search\ for\r\n\ performs\ a\ binary\ search\ on\ the\ array.\r\n\ Returns\ the\ number\ of\ operation\ needed\ for\ the\ search\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\ Allows\ a\ user\ to\ enter\ a\ random\ list\ size\r\n\ generates\ a\ random\ list\ of\ that\ size,\ order\ it,\ \r\n\ and\ search\ for\ an\ item\ in\ it.\r\n\ Prints\ results\ of\ searching\ for\ the\ item\r\n
+numComments=4
